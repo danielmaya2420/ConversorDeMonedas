@@ -17,5 +17,12 @@ Permite al usuario ingresar un valor en una moneda base y convertirlo a otra mon
 - Guarda el historial de conversiones realizadas, incluyendo la fecha y hora de cada conversión.
 - Permite al usuario ver el historial de conversiones realizadas durante la sesión actual.
 
-# API "Exchange Rate API": https://www.exchangerate-api.com/
+API "Exchange Rate API": https://www.exchangerate-api.com/
+
+# Instrucciones
+![image](https://github.com/danielmaya2420/ConversorDeMonedas/assets/95893333/8ce54231-8923-43ae-b897-921dbc0d65ff)
+
+# Opciones y denominaciones
+![image](https://github.com/danielmaya2420/ConversorDeMonedas/assets/95893333/1cb7ad49-cd72-4e9f-848d-04835735a687)
+
 

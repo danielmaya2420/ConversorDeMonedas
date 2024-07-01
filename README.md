@@ -16,3 +16,6 @@ Permite al usuario ingresar un valor en una moneda base y convertirlo a otra mon
 # Historial de Conversiones:
 - Guarda el historial de conversiones realizadas, incluyendo la fecha y hora de cada conversión.
 - Permite al usuario ver el historial de conversiones realizadas durante la sesión actual.
+
+# API "Exchange Rate API": https://www.exchangerate-api.com/
+
